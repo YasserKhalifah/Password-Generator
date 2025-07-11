@@ -18,3 +18,5 @@ password generating app using Python's PyQt5
 - Auto-Generate ignores checkbox selections
 - Copy-to-clipboard might not work on all operating systems
 - Password strength bar is just visual
+# Credits 
+- Icons used in this application are from https://icons8.com/ 
